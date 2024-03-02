@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('darkbg.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  canvas {
+    border: 3px solid #7257e7;
+    background-image: url('jinx.gif');
+    background-position: center;
+  }
+  
